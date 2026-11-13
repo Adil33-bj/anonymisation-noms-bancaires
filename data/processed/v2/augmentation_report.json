@@ -1,0 +1,7 @@
+{
+  "base_rows": 584,
+  "generated_positive": 140,
+  "generated_negative": 60,
+  "final_rows": 630,
+  "out_path": "dataset_augmented.jsonl"
+}

@@ -1,0 +1,137 @@
+% Schéma d'ensemble du projet d'anonymisation (1 page, paysage)
+% Compilation : tectonic schema-projet.tex
+\documentclass{article}
+\usepackage[a4paper,landscape,margin=0pt]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[default]{lato}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta}
+\pagestyle{empty}
+
+\definecolor{ink}{HTML}{1E1F23}
+\definecolor{muted}{HTML}{5B6070}
+\definecolor{data}{HTML}{3B5BA9}
+\definecolor{dict}{HTML}{C8741A}
+\definecolor{detect}{HTML}{7A4FBF}
+\definecolor{protect}{HTML}{1F8A70}
+\definecolor{eval}{HTML}{353A4A}
+
+\newcommand{\etape}[2]{\tikz[baseline=(c.base)]\node[circle,fill=#1,text=white,inner sep=1.2pt,
+  font=\bfseries\footnotesize](c){#2};}
+
+\begin{document}
+\color{ink}
+\begin{tikzpicture}[remember picture,overlay,x=1mm,y=1mm,shift={(current page.south west)},
+  box/.style={draw=#1,line width=1pt,fill=#1!7,rounded corners=3mm,align=center,
+    inner sep=2mm,font=\small},
+  flow/.style={-{Stealth[length=3mm]},line width=1.3pt,color=#1},
+  lbl/.style={font=\footnotesize,align=center,text=muted}]
+
+  % ---- Titre ----
+  \node[font=\bfseries\LARGE] at (148.5,199) {Anonymisation de noms dans des textes bancaires};
+  \node[font=\normalsize,text=muted] at (148.5,190.5)
+    {Repérer les noms de personnes marocains dans une phrase, puis les cacher ou les chiffrer};
+
+  % =========================================================
+  % 1. Les phrases : préparation des données (ligne du haut)
+  % =========================================================
+  \node[anchor=west,font=\bfseries,text=data] at (14,180) {\etape{data}{1}\ Préparer les phrases};
+
+  \node[box=data,text width=40mm,minimum height=30mm] (src) at (35,160)
+    {\textbf{Phrases bancaires}\\[1mm]{\footnotesize fictives : virements, soldes,\\relevés, cartes\ldots}\\[1mm]
+     \textbf{1\,266 phrases}\\[0.5mm]{\footnotesize\itshape + noms annotés à la main}};
+  \node[box=data,text width=40mm,minimum height=30mm] (norm) at (88,160)
+    {\textbf{Normaliser\\et annoter}\\[1mm]{\footnotesize un seul format : le texte\\+ la position de chaque nom}};
+  \node[box=data,text width=40mm,minimum height=30mm] (clean) at (141,160)
+    {\textbf{Valider\\et nettoyer}\\[1mm]{\footnotesize positions correctes,\\doublons retirés}\\[1mm]
+     \textbf{584 phrases}};
+  \node[box=data,text width=40mm,minimum height=30mm] (split) at (194,160)
+    {\textbf{Découper}\\[1mm]{\footnotesize apprentissage / réglage / test,\\sans phrase en double}\\[1mm]
+     \textbf{402 / 84 / 98}};
+  \node[box=data,text width=40mm,minimum height=30mm] (aug) at (247,160)
+    {\textbf{Augmenter}\\[1mm]{\footnotesize nouvelles phrases : fautes\\de frappe, « El », « Al »,\\phrases sans nom}\\[1mm]
+     \textbf{630 phrases}};
+  \foreach \a/\b in {src/norm,norm/clean,clean/split,split/aug}{
+    \draw[flow=data] (\a.east) -- (\b.west);
+  }
+
+  % =========================================================
+  % 2. Les dictionnaires (à gauche)
+  % =========================================================
+  \node[anchor=west,font=\bfseries,text=dict] at (14,138) {\etape{dict}{2}\ Construire les dictionnaires};
+  \node[box=dict,text width=54mm,minimum height=48mm] (dict) at (45,107)
+    {\textbf{Listes de noms marocains}\\[1mm]
+     {\footnotesize récupérées sur le web, puis nettoyées :\\accents, doublons, mots parasites}\\[1.5mm]
+     \textbf{1\,871 prénoms}\quad\textbf{406 noms}\\[1.5mm]
+     {\footnotesize chaque nom reçoit un numéro (ID)\\Ahmed $\rightarrow$ 125,\quad Benali $\rightarrow$ 89}};
+
+  % =========================================================
+  % 3. La détection (au centre)
+  % =========================================================
+  \draw[detect,line width=1.2pt,dashed,rounded corners=5mm,fill=detect!3] (80,80) rectangle (203,140);
+  \node[font=\bfseries,text=detect] at (141.5,134.5) {\etape{detect}{3}\ Détecter les noms : 3 méthodes comparées};
+
+  \node[box=detect,text width=32mm,minimum height=36mm] (exact) at (102,108)
+    {\textbf{Dictionnaire\\exact}\\[1mm]{\footnotesize cherche un prénom suivi\\d'un nom dans les listes\\(gère El, Al, Ben)}};
+  \node[box=detect,text width=32mm,minimum height=36mm] (fuzzy) at (141.5,108)
+    {\textbf{Dictionnaire\\approximatif}\\[1mm]{\footnotesize RapidFuzz tolère les\\fautes de frappe :\\Ahmedi $\rightarrow$ Ahmed}};
+  \node[box=detect,text width=32mm,minimum height=36mm] (spacy) at (181,108)
+    {\textbf{Modèle spaCy}\\[1mm]{\footnotesize réseau de neurones\\(NER) qui apprend\\sur les phrases\\d'apprentissage}};
+  \node[lbl] at (141.5,85) {résultat : la position de chaque nom dans la phrase (début, fin)};
+
+  % ---- Flèches vers la détection ----
+  \draw[flow=dict] (dict.east |- 0,108) -- (exact.west |- 0,108);
+  \draw[flow=data] (247,145) -- (247,142.5) -- (192,142.5) -- (192,140);
+  \node[lbl,font=\scriptsize,anchor=north] at (222,142) {phrases d'apprentissage};
+
+  % =========================================================
+  % 4. La protection (à droite)
+  % =========================================================
+  \node[anchor=west,font=\bfseries,text=protect] at (210,135) {\etape{protect}{4}\ Protéger les noms};
+  \node[box=protect,text width=64mm,minimum height=22mm] (mask) at (246,120)
+    {\textbf{Masquage}\\[1mm]{\footnotesize le nom est remplacé par \texttt{[ANONYMIZED]},\\le reste de la phrase ne bouge pas}};
+  \node[box=protect,text width=64mm,minimum height=22mm] (crypt) at (246,93)
+    {\textbf{Chiffrement AES (Fernet)}\\[1mm]{\footnotesize pseudonymisation réversible : avec la clé\\secrète, on peut retrouver le vrai nom}};
+  \draw[flow=protect] (203,120) -- (mask.west);
+  \draw[flow=protect] (203,93) -- (crypt.west);
+
+  % =========================================================
+  % 5. L'évaluation (en bas à gauche)
+  % =========================================================
+  \node[anchor=west,font=\bfseries,text=eval] at (14,70) {\etape{eval}{5}\ Évaluer sur les 98 phrases de test};
+  \node[box=eval,text width=180mm,minimum height=50mm,anchor=north west] (ev) at (14,65)
+    {\begin{tabular}{lccc}
+       & \textbf{Précision} & \textbf{Rappel} & \textbf{F1}\\[0.5mm]
+       \hline\\[-3mm]
+       Dictionnaire exact        & 0,81 & 0,81 & 0,81\\
+       Dictionnaire approximatif & 0,79 & 0,98 & 0,88\\
+       Modèle spaCy              & 0,98 & 0,99 & 0,98\\
+     \end{tabular}\\[2mm]
+     {\footnotesize \textbf{Précision} : parmi les mots masqués, combien sont vraiment des noms ?\quad
+      \textbf{Rappel} : parmi les vrais noms, combien sont trouvés ?}\\[1mm]
+     {\footnotesize Exact : rate les noms absents des listes (« Kharrouchi »).\quad
+      Approximatif : masque aussi des mots courants (« Faire », « MAD »).}\\[1mm]
+     {\footnotesize Rapport complet : \texttt{reports/eval\_report.md}\quad$\cdot$\quad 26 tests automatiques (pytest)}};
+  \draw[flow=detect] (141.5,80) -- (141.5,65);
+
+  % =========================================================
+  % Exemple (en bas à droite)
+  % =========================================================
+  \node[anchor=west,font=\bfseries,text=protect] at (210,70) {Exemple};
+  \node[box=protect,text width=64mm,minimum height=50mm,anchor=north] (ex) at (246,65)
+    {{\footnotesize\textbf{Avant}}\\[1mm]
+     « Virement de 1\,500 MAD pour\\\textbf{Jamila Oumhani} le 12/04/2024. »\\[2mm]
+     $\Downarrow$\\[2mm]
+     {\footnotesize\textbf{Après masquage}}\\[1mm]
+     « Virement de 1\,500 MAD pour\\\texttt{[ANONYMIZED]} le 12/04/2024. »\\[2mm]
+     {\footnotesize\itshape le montant et la date restent visibles}};
+
+  % ---- Légende ----
+  \node[anchor=west,font=\small] at (14,9)
+    {\textbf{En une phrase :} on \textcolor{data}{\textbf{prépare des phrases}} et des
+     \textcolor{dict}{\textbf{listes de noms}}, on \textcolor{detect}{\textbf{détecte les noms}} avec 3 méthodes,
+     on les \textcolor{protect}{\textbf{cache ou on les chiffre}}, puis on \textcolor{eval}{\textbf{mesure}} la qualité.};
+  \node[anchor=west,font=\footnotesize,text=muted] at (14,3.5)
+    {Les données de ce dépôt sont fictives : les vraies données de la banque restent confidentielles.};
+\end{tikzpicture}
+\end{document}

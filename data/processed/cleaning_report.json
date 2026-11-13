@@ -1,0 +1,7 @@
+{
+  "input_rows": 1266,
+  "clean_rows": 584,
+  "dropped_invalid": 0,
+  "dropped_exact_duplicates": 682,
+  "out_path": "dataset_clean.jsonl"
+}

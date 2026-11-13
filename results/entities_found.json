@@ -1,0 +1,43 @@
+[
+  {
+    "type": "PRENOM_seul",
+    "prenom": "Ahmed",
+    "id_prenom": 125
+  },
+  {
+    "type": "ENTITE_fuzzy",
+    "prenom": "Elghazi",
+    "nom": "Souad",
+    "id_prenom": 479,
+    "id_nom": 355
+  },
+  {
+    "type": "NOM_seul",
+    "nom": "Benali",
+    "id_nom": 89
+  },
+  {
+    "type": "ENTITE_fuzzy",
+    "prenom": "Yassine",
+    "nom": "Kharrouchi",
+    "id_prenom": 1797,
+    "id_nom": 256
+  },
+  {
+    "type": "PRENOM_fuzzy",
+    "prenom": "Ahmedi",
+    "id_prenom": 125
+  },
+  {
+    "type": "ENTITE_fuzzy",
+    "prenom": "Elghazii",
+    "nom": "Souaad",
+    "id_prenom": 479,
+    "id_nom": 338
+  },
+  {
+    "type": "PRENOM_fuzzy",
+    "prenom": "Yassin",
+    "id_prenom": 1797
+  }
+]

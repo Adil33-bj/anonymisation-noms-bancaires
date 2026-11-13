@@ -1,0 +1,27 @@
+# Python environment/cache
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# spaCy binary artifacts
+*.spacy
+
+# Generated outputs (reproducible, no need to version)
+data/eval/*.json
+data/eval/*.txt
+reports/*.tmp
+
+# Heavy model artifacts
+models/
+output_ner_model/
+
+# Archives
+*.zip
+*.rar
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

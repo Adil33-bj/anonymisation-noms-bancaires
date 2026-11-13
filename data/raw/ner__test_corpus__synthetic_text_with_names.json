@@ -1,0 +1,4802 @@
+[
+  {
+    "text": "Solde du compte de Yassine Benali",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Hicham Bennani ?",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Amal El Idrissi ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Soukaina El Idrissi",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Amal Kharrouchi",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Amal Benali ?",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Soukaina Bennani ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Yassine Benali",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Omar Bennani",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Hicham Bennani",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Yassine El Idrissi ?",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Hicham El Idrissi ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Amal El Mansouri",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Omar Benali ?",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Yassine El Mansouri ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Hicham Kharrouchi",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Omar El Idrissi ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Hicham Kharrouchi",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Omar Bennani",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Amal El Idrissi",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Yassine Benali",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Hicham Benali ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Amal El Idrissi",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Yassine Benali",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Soukaina Benali ?",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Omar Kharrouchi ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Omar Kharrouchi",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Yassine Benali",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Yassine El Mansouri",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Soukaina Bennani",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Amal El Idrissi",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Yassine Bennani",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Soukaina El Idrissi",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Yassine El Idrissi",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Soukaina El Mansouri",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Hicham Benali",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Soukaina El Idrissi ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Amal El Mansouri",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Hicham El Mansouri",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Yassine Kharrouchi",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Omar El Mansouri",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Amal Kharrouchi",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Soukaina Benali",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Amal Bennani",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Soukaina Kharrouchi ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Soukaina El Mansouri",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Omar Benali ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Soukaina Bennani",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Soukaina Kharrouchi ?",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Amal El Idrissi ?",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Omar Bennani ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Omar Benali",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Hicham El Mansouri",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Soukaina El Mansouri",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Yassine El Idrissi",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Yassine El Mansouri",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Soukaina Kharrouchi",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Yassine El Idrissi",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Yassine Benali ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Omar El Mansouri",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Omar Benali",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Soukaina Bennani",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Hicham El Idrissi",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Amal El Idrissi ?",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Yassine Benali ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Omar El Idrissi",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Omar Bennani",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Soukaina Kharrouchi",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Yassine El Mansouri ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Amal Kharrouchi",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Yassine El Idrissi ?",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Soukaina El Idrissi ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Yassine Bennani",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Soukaina El Idrissi",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Soukaina Benali",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Amal Bennani ?",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Amal Bennani ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Omar Benali",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Yassine Kharrouchi",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Soukaina Kharrouchi ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Omar Benali",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Omar Kharrouchi",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Omar Benali",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Omar Benali ?",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Yassine Bennani ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Yassine Kharrouchi",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Soukaina El Idrissi",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Soukaina Kharrouchi ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Yassine Bennani",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Yassine El Idrissi ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Hicham El Idrissi",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Omar El Mansouri ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Hicham Benali",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Omar Kharrouchi",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Omar Benali ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Soukaina El Mansouri",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Soukaina Kharrouchi",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Hicham Bennani",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Omar Kharrouchi",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Omar El Mansouri",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Hicham Bennani ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Omar El Mansouri",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Hicham Benali",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Soukaina Kharrouchi",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Soukaina Benali ?",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Amal Bennani ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Amal Kharrouchi",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Yassine El Mansouri ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Yassine El Mansouri",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Soukaina El Mansouri",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Soukaina El Idrissi ?",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Amal Kharrouchi ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Soukaina Kharrouchi",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Soukaina Bennani",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Hicham Benali",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Yassine Kharrouchi",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Amal Kharrouchi",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Yassine El Idrissi",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Hicham Kharrouchi",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Yassine Benali",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Amal El Idrissi ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Soukaina Bennani",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Hicham El Idrissi ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Soukaina Kharrouchi",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Yassine El Mansouri ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Yassine El Mansouri",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Omar Bennani",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Amal El Idrissi",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Omar Bennani ?",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Hicham El Idrissi ?",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Yassine Benali ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Amal Benali",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Amal Benali ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Hicham El Mansouri",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Soukaina El Mansouri",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Amal Benali",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Amal El Mansouri",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Omar Kharrouchi ?",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Omar El Idrissi ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Omar Bennani",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Omar El Mansouri",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Yassine Benali ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Hicham Benali",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Soukaina El Mansouri",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Amal Bennani",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Amal Benali",
+    "intent": "solde"
+  },
+  {
+    "text": "Solde du compte de Yassine El Idrissi",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Omar El Idrissi",
+    "intent": "solde"
+  },
+  {
+    "text": "C'est quoi le solde de Omar El Mansouri ?",
+    "intent": "solde"
+  },
+  {
+    "text": "Je veux connaître le solde de Hicham El Mansouri",
+    "intent": "solde"
+  },
+  {
+    "text": "Transfert bancaire pour Amal Benali",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Hicham El Mansouri",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Hicham El Mansouri",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Yassine El Idrissi",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Soukaina El Idrissi",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Hicham El Idrissi",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Amal El Idrissi",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Amal El Mansouri",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Omar Bennani",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Yassine El Mansouri",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Amal Benali",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Hicham Benali",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Yassine Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Amal El Mansouri",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Omar El Idrissi",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Hicham El Idrissi",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Soukaina El Idrissi",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Amal Benali",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Hicham Benali",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Soukaina El Idrissi",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Omar El Idrissi",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Omar Benali",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Hicham Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Hicham Bennani",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Soukaina Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Hicham El Idrissi",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Yassine Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Yassine Benali",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Amal El Mansouri",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Amal Benali",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Hicham El Idrissi",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Amal Bennani",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Hicham Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Hicham Bennani",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Amal El Mansouri",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Omar Bennani",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Amal Bennani",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Amal Benali",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Omar Benali",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Soukaina El Idrissi",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Soukaina El Mansouri",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Soukaina Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Hicham Bennani",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Soukaina Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Soukaina Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Omar El Mansouri",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Omar Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Amal Bennani",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Amal El Mansouri",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Omar El Idrissi",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Omar Benali",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Hicham El Mansouri",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Yassine Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Amal Bennani",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Soukaina Bennani",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Soukaina Benali",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Yassine El Idrissi",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Amal Benali",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Amal Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Soukaina Bennani",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Yassine Bennani",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Amal El Mansouri",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Hicham El Mansouri",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Hicham Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Amal Benali",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Yassine Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Hicham Bennani",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Omar El Idrissi",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Amal Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Yassine Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Omar Bennani",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Omar Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Yassine Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Omar Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Omar Bennani",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Soukaina El Idrissi",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Omar Benali",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Yassine Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Omar Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Yassine Benali",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Soukaina El Idrissi",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Amal Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Amal Bennani",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Yassine Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Amal Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Omar El Idrissi",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Soukaina El Idrissi",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Yassine Bennani",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Yassine El Mansouri",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Hicham El Idrissi",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Amal Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Omar El Idrissi",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Soukaina El Mansouri",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Amal El Mansouri",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Amal Benali",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Amal Benali",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Hicham Bennani",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Soukaina Benali",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Yassine Bennani",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Soukaina Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Amal Benali",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Hicham Bennani",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Amal El Mansouri",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Amal Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Yassine Bennani",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Amal Benali",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Omar Bennani",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Amal El Idrissi",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Omar Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Soukaina El Idrissi",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Omar Bennani",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Soukaina Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Hicham Bennani",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Soukaina Benali",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Amal El Mansouri",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Soukaina El Idrissi",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Amal El Idrissi",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Omar Bennani",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Soukaina Bennani",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Omar Bennani",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Omar El Idrissi",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Amal Benali",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Hicham Benali",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Omar Benali",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Hicham El Mansouri",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Hicham Benali",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Hicham Benali",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Hicham Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Yassine El Mansouri",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Hicham El Mansouri",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Omar El Idrissi",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Soukaina Bennani",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Hicham El Idrissi",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Soukaina Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Yassine Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Hicham El Mansouri",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Amal El Mansouri",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Omar El Mansouri",
+    "intent": "virement"
+  },
+  {
+    "text": "Faire un virement à Amal El Idrissi",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Omar El Idrissi",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Soukaina El Mansouri",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Omar El Mansouri",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Yassine Bennani",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Omar Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Hicham Kharrouchi",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Soukaina Benali",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Omar El Mansouri",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Hicham Bennani",
+    "intent": "virement"
+  },
+  {
+    "text": "Transfert bancaire pour Soukaina Benali",
+    "intent": "virement"
+  },
+  {
+    "text": "Envoyer de l'argent à Amal Benali",
+    "intent": "virement"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Hicham Benali",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Amal Bennani",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Hicham Benali veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Soukaina Bennani",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Omar El Idrissi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Amal El Idrissi veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Amal El Idrissi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Omar Bennani veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Amal El Mansouri",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Yassine El Mansouri veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Amal Bennani",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Soukaina Benali veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Soukaina El Mansouri",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Omar Bennani veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Yassine Kharrouchi veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Soukaina El Idrissi veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Amal Bennani",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Amal El Idrissi veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Yassine Kharrouchi veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Yassine Benali veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Yassine El Idrissi veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Hicham Bennani veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Amal El Mansouri veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Omar Benali",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Yassine El Idrissi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Yassine El Mansouri",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Yassine El Mansouri",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Yassine Bennani",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Amal Benali veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Yassine Benali veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Yassine Benali veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Hicham El Mansouri",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Omar El Mansouri veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Hicham Bennani",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Amal Benali",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Omar Kharrouchi veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Hicham Kharrouchi veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Hicham Kharrouchi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Omar Benali",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Omar Benali veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Soukaina Kharrouchi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Soukaina Benali veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Amal Bennani",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Hicham El Idrissi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Yassine Benali",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Omar El Mansouri veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Hicham El Idrissi veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Amal Kharrouchi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Amal Kharrouchi veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Amal El Mansouri",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Omar Bennani veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Amal Benali veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Omar Benali",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Amal El Mansouri veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Soukaina El Mansouri",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Hicham Bennani",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Amal Benali",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Yassine Bennani",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Soukaina El Mansouri",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Amal Benali",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Amal Kharrouchi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Omar Kharrouchi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Soukaina El Idrissi veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Soukaina Benali",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Hicham El Idrissi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Hicham Kharrouchi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Yassine Benali",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Yassine El Idrissi veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Yassine Kharrouchi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Soukaina El Mansouri",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Soukaina El Idrissi veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Amal El Mansouri",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Amal El Idrissi veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Yassine El Mansouri",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Yassine Benali veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Soukaina Kharrouchi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Amal Benali",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Yassine El Idrissi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Yassine Bennani",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Amal El Mansouri veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Omar El Mansouri veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Soukaina Bennani veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Yassine Kharrouchi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Yassine El Mansouri",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Omar Bennani veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Soukaina El Idrissi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Soukaina El Mansouri veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Amal Kharrouchi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Omar El Mansouri",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Yassine Bennani veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Omar Benali",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Omar Bennani veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Omar Benali",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Yassine El Mansouri",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Yassine Kharrouchi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Hicham Bennani veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Amal Bennani veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Omar Benali veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Hicham Bennani veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Omar Benali",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Omar El Mansouri",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Yassine Kharrouchi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Soukaina El Mansouri",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Hicham El Idrissi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Amal Bennani veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Amal El Mansouri",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Omar Kharrouchi veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Yassine El Mansouri",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Amal El Idrissi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Hicham El Mansouri",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Yassine Benali veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Amal El Idrissi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Yassine Kharrouchi veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Yassine El Idrissi veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Amal El Idrissi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Amal Kharrouchi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Amal El Mansouri",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Amal El Mansouri",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Soukaina Bennani veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Omar Kharrouchi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Omar El Idrissi veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Amal El Mansouri",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Yassine El Idrissi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Hicham Bennani",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Soukaina El Idrissi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Amal El Mansouri veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Yassine El Mansouri veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Soukaina El Idrissi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Yassine Kharrouchi veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Omar El Idrissi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Amal Benali",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Amal El Idrissi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Amal El Mansouri",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Soukaina Bennani veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Hicham Kharrouchi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Hicham Benali veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Soukaina Bennani",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Hicham Bennani veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Yassine El Mansouri",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Omar El Mansouri",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Hicham Benali",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Soukaina El Idrissi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Hicham Bennani veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Amal El Mansouri",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Omar Benali",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Amal El Idrissi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Yassine El Mansouri veut ouvrir un compte",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Créer un compte pour Omar El Mansouri",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Soukaina El Mansouri",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Demande d'ouverture de compte par Hicham El Idrissi",
+    "intent": "ouverture_compte"
+  },
+  {
+    "text": "Fermer le compte de Hicham Bennani",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Soukaina El Idrissi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Hicham Benali",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Omar Benali",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Hicham El Idrissi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Hicham Kharrouchi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Hicham El Idrissi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Soukaina El Mansouri veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Hicham El Mansouri",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Omar Kharrouchi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Hicham Kharrouchi veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Hicham Benali veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Hicham Kharrouchi veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Amal El Idrissi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Amal Bennani",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Yassine Kharrouchi veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Hicham Kharrouchi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Yassine El Mansouri",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Soukaina El Mansouri",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Yassine Kharrouchi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Soukaina Benali",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Hicham Benali veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Yassine Kharrouchi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Omar Bennani",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Omar Kharrouchi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Omar El Mansouri",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Soukaina Benali",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Amal El Mansouri",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Yassine Kharrouchi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Yassine Benali",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Omar Kharrouchi veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Amal El Idrissi veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Yassine El Mansouri veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Hicham El Mansouri",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Omar El Mansouri",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Yassine Bennani veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Amal El Mansouri",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Soukaina El Mansouri",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Yassine Kharrouchi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Hicham El Mansouri veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Yassine El Mansouri",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Soukaina Benali",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Omar Bennani",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Yassine El Mansouri",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Soukaina Benali",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Soukaina Bennani",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Soukaina Benali",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Omar Bennani veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Soukaina Benali veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Omar El Mansouri veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Yassine El Mansouri veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Hicham El Idrissi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Yassine El Mansouri",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Hicham Bennani",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Amal Kharrouchi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Soukaina Benali",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Amal El Mansouri",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Amal El Mansouri",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Soukaina Kharrouchi veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Soukaina Kharrouchi veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Omar Benali",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Yassine El Mansouri",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Soukaina Kharrouchi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Amal Benali",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Soukaina El Idrissi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Yassine El Mansouri veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Soukaina Kharrouchi veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Omar Kharrouchi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Amal El Idrissi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Hicham Kharrouchi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Soukaina El Idrissi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Hicham Kharrouchi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Hicham Kharrouchi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Amal Benali veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Yassine El Idrissi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Omar El Mansouri",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Soukaina Benali",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Amal Benali veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Omar Kharrouchi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Yassine Kharrouchi veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Soukaina Benali",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Yassine El Mansouri veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Hicham Benali veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Yassine Kharrouchi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Soukaina El Idrissi veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Omar El Mansouri veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Yassine El Mansouri veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Omar El Idrissi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Hicham Bennani",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Hicham Kharrouchi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Hicham El Mansouri",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Hicham El Idrissi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Yassine El Mansouri",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Omar El Idrissi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Omar El Idrissi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Yassine El Mansouri",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Hicham El Idrissi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Soukaina Kharrouchi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Yassine El Idrissi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Hicham El Mansouri",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Hicham El Mansouri veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Amal Benali",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Soukaina Benali veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Amal El Mansouri veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Soukaina Benali veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Soukaina Benali veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Amal El Idrissi veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Soukaina Bennani",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Soukaina Bennani veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Omar Bennani",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Omar Benali",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Yassine El Mansouri",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Soukaina Kharrouchi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Yassine Benali",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Soukaina El Idrissi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Omar El Mansouri veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Yassine El Idrissi veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Omar Bennani",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Hicham El Mansouri",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Yassine Kharrouchi veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Hicham Kharrouchi veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Amal El Idrissi veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Hicham Kharrouchi veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Yassine El Idrissi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Yassine El Mansouri",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Amal Benali",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Soukaina Kharrouchi veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Soukaina Benali",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Omar El Idrissi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Omar El Mansouri",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Amal El Idrissi veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Omar El Idrissi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Soukaina El Idrissi veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Amal Benali veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Hicham Kharrouchi veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Omar El Mansouri",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Omar El Mansouri veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Hicham Bennani",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Amal Benali veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Amal Bennani veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Yassine Benali",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Yassine Benali",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Amal Benali veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Hicham El Idrissi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Fermer le compte de Omar El Idrissi",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Demande de clôture pour Amal El Mansouri",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Hicham Benali veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Soukaina El Mansouri veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Amal El Mansouri veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Hicham Bennani veut clôturer son compte",
+    "intent": "fermeture_compte"
+  },
+  {
+    "text": "Carte perdue au nom de Hicham El Mansouri",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Omar El Mansouri",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Omar El Mansouri signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Amal Bennani",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Yassine Bennani",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Yassine Benali signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Amal Benali",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Hicham El Mansouri",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Amal El Idrissi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Omar Benali signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Amal Bennani",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Amal El Idrissi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Hicham El Idrissi signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Amal El Idrissi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Yassine Benali",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Soukaina Bennani",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Amal El Mansouri signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Yassine Bennani signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Yassine El Mansouri",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Omar Benali",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Amal Bennani signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Amal El Idrissi signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Yassine El Idrissi signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Soukaina Benali",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Soukaina El Idrissi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Hicham El Idrissi signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Yassine Bennani signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Yassine El Mansouri",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Yassine Benali signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Yassine Kharrouchi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Hicham Kharrouchi signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Yassine Benali",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Amal Benali signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Amal Bennani",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Omar El Idrissi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Yassine Kharrouchi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Hicham Benali",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Amal El Idrissi signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Omar Benali",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Hicham El Mansouri",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Omar Benali signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Yassine El Mansouri",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Omar El Idrissi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Omar El Idrissi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Omar Benali signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Omar Bennani",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Yassine Bennani",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Hicham El Mansouri signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Yassine Benali signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Amal Bennani signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Yassine Kharrouchi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Omar El Idrissi signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Hicham Bennani",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Yassine Benali",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Yassine El Mansouri signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Hicham El Mansouri",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Soukaina El Mansouri signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Hicham Kharrouchi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Omar Bennani signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Soukaina Bennani",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Hicham Benali",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Hicham El Idrissi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Soukaina Benali signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Soukaina Benali",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Hicham Benali",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Omar Benali",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Hicham Kharrouchi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Hicham Bennani",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Yassine Benali signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Hicham El Mansouri",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Hicham Bennani",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Amal Bennani",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Omar Bennani",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Omar Kharrouchi signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Yassine Benali",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Yassine Kharrouchi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Hicham El Mansouri",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Yassine Kharrouchi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Amal Bennani signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Soukaina El Idrissi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Omar Bennani signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Hicham Kharrouchi signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Soukaina El Mansouri",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Soukaina El Mansouri",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Hicham Kharrouchi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Omar El Idrissi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Omar El Idrissi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Soukaina El Idrissi signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Hicham El Idrissi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Soukaina El Mansouri",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Soukaina Benali",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Omar Benali",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Hicham Benali",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Soukaina Kharrouchi signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Yassine El Mansouri",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Amal El Mansouri signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Soukaina Kharrouchi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Soukaina El Mansouri signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Omar El Mansouri",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Soukaina El Idrissi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Hicham Kharrouchi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Yassine El Mansouri",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Soukaina Kharrouchi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Amal El Mansouri signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Hicham El Idrissi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Omar Bennani",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Soukaina El Mansouri",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Omar El Mansouri",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Amal Bennani",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Soukaina El Idrissi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Hicham Bennani",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Yassine Bennani signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Yassine El Idrissi signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Amal El Mansouri signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Soukaina Kharrouchi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Soukaina El Idrissi signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Hicham Benali",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Yassine Benali signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Amal Bennani",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Omar Bennani",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Yassine Kharrouchi signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Omar Benali signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Hicham Benali signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Hicham Benali",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Soukaina Bennani signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Yassine Bennani signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Hicham Bennani",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Omar El Idrissi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Yassine El Mansouri",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Soukaina Kharrouchi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Omar El Mansouri",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Soukaina Kharrouchi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Amal Bennani",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Hicham Bennani",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Soukaina El Mansouri signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Amal Benali",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Yassine El Mansouri",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Omar Bennani signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Yassine Benali",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Yassine Kharrouchi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Yassine El Idrissi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Soukaina Kharrouchi signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Yassine Benali",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Yassine Bennani",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Yassine Kharrouchi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Amal Benali",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Carte perdue au nom de Amal El Idrissi",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Omar Bennani signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Hicham Kharrouchi signale une perte de carte",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Bloquer la carte de Hicham Bennani",
+    "intent": "blocage_carte"
+  },
+  {
+    "text": "Envoyer le relevé à Amal El Mansouri",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Soukaina Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Hicham Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Hicham El Idrissi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Soukaina El Idrissi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Soukaina El Idrissi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Yassine Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Soukaina Kharrouchi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Hicham Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Amal El Mansouri",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Yassine Kharrouchi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Soukaina Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Amal Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Omar El Idrissi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Hicham Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Soukaina Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Amal El Mansouri",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Hicham Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Hicham Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Hicham El Idrissi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Soukaina Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Omar Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Omar El Mansouri",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Soukaina Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Yassine El Mansouri",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Amal Kharrouchi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Yassine Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Omar Kharrouchi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Soukaina El Mansouri",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Omar El Idrissi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Omar Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Amal Kharrouchi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Soukaina Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Soukaina El Idrissi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Hicham El Mansouri",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Omar Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Omar El Mansouri",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Hicham Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Omar Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Amal El Idrissi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Hicham Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Hicham El Idrissi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Yassine El Mansouri",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Omar Kharrouchi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Yassine Kharrouchi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Soukaina El Idrissi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Hicham Kharrouchi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Yassine Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Soukaina El Idrissi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Hicham Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Yassine El Mansouri",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Soukaina Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Hicham Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Yassine El Mansouri",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Soukaina El Mansouri",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Amal El Idrissi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Hicham Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Soukaina Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Hicham El Mansouri",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Omar Kharrouchi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Hicham Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Omar El Mansouri",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Hicham Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Omar Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Yassine Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Soukaina Kharrouchi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Soukaina Kharrouchi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Hicham El Mansouri",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Yassine Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Hicham El Idrissi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Hicham Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Hicham El Idrissi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Yassine El Mansouri",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Omar Kharrouchi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Yassine Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Omar Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Yassine Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Hicham El Mansouri",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Hicham Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Hicham Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Hicham Kharrouchi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Soukaina Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Hicham El Mansouri",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Hicham Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Amal Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Omar El Idrissi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Soukaina Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Yassine El Mansouri",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Omar El Mansouri",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Yassine Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Yassine Kharrouchi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Soukaina Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Amal Kharrouchi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Amal Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Amal Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Yassine El Idrissi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Yassine El Idrissi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Soukaina Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Amal Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Omar Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Hicham Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Omar Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Hicham Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Soukaina Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Yassine Kharrouchi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Hicham Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Soukaina El Mansouri",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Omar Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Amal Kharrouchi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Soukaina El Mansouri",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Hicham Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Soukaina Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Hicham Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Omar Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Hicham El Mansouri",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Omar Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Omar Kharrouchi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Amal El Mansouri",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Soukaina El Idrissi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Soukaina El Mansouri",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Hicham Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Hicham El Idrissi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Yassine El Mansouri",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Omar El Idrissi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Amal El Mansouri",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Omar Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Soukaina Kharrouchi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Soukaina Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Yassine El Idrissi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Yassine Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Yassine El Mansouri",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Amal Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Amal Kharrouchi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Omar El Idrissi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Hicham El Idrissi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Yassine Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Soukaina Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Omar Kharrouchi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Hicham El Mansouri",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Omar Kharrouchi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Hicham Kharrouchi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Omar Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Hicham Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Amal Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Soukaina Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Soukaina Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Envoyer le relevé à Yassine Bennani",
+    "intent": "relevé"
+  },
+  {
+    "text": "Demande de relevé mensuel pour Amal Benali",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Hicham Kharrouchi",
+    "intent": "relevé"
+  },
+  {
+    "text": "Télécharger relevé de Yassine El Mansouri",
+    "intent": "relevé"
+  },
+  {
+    "text": "Yassine Benali veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Hicham Kharrouchi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Amal Kharrouchi veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Omar Bennani",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Hicham El Idrissi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Yassine Kharrouchi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Omar El Mansouri veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Omar Benali",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Soukaina El Mansouri",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Yassine Benali veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Yassine Bennani veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Omar El Mansouri",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Amal El Idrissi veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Soukaina Kharrouchi veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Soukaina Benali",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Omar El Idrissi veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Soukaina Benali veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Amal El Mansouri veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Yassine Bennani veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Soukaina Bennani",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Omar El Idrissi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Soukaina Benali veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Hicham Kharrouchi veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Hicham Bennani veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Yassine El Idrissi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Amal Benali",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Yassine Bennani",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Soukaina El Idrissi veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Omar Benali",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Soukaina El Mansouri veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Omar El Idrissi veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Amal Kharrouchi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Yassine Benali veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Soukaina Bennani veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Soukaina Kharrouchi veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Omar El Mansouri veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Yassine Benali",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Omar Bennani veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Hicham El Mansouri",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Soukaina El Idrissi veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Hicham El Mansouri veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Amal Bennani",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Omar Benali",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Hicham El Idrissi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Amal Kharrouchi veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Soukaina El Idrissi veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Soukaina Kharrouchi veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Amal Bennani",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Amal Benali",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Yassine Kharrouchi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Yassine El Mansouri veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Soukaina Bennani",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Hicham Kharrouchi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Hicham El Idrissi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Yassine Benali",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Omar El Mansouri",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Soukaina El Idrissi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Hicham Benali",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Yassine El Idrissi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Soukaina Benali",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Hicham El Mansouri",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Hicham Bennani",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Amal El Mansouri",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Yassine Benali veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Soukaina Bennani",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Amal Kharrouchi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Soukaina El Idrissi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Yassine Benali veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Hicham Benali",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Hicham El Mansouri veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Soukaina Bennani veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Amal Bennani veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Soukaina Bennani veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Soukaina Benali",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Amal El Mansouri",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Soukaina El Idrissi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Amal Kharrouchi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Yassine El Mansouri veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Omar Benali",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Soukaina El Idrissi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Hicham Benali veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Amal Bennani",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Amal El Mansouri",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Hicham El Mansouri",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Amal El Idrissi veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Amal El Idrissi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Amal El Idrissi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Amal Benali veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Omar El Mansouri",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Soukaina El Mansouri veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Soukaina Kharrouchi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Yassine Kharrouchi veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Hicham Benali",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Soukaina El Mansouri",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Hicham Kharrouchi veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Hicham Bennani",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Yassine Kharrouchi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Omar Kharrouchi veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Yassine Kharrouchi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Amal El Idrissi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Hicham El Idrissi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Amal Kharrouchi veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Amal Benali veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Yassine Benali",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Soukaina El Idrissi veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Yassine Bennani",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Hicham Benali",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Amal Bennani",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Omar Benali veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Amal Bennani",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Hicham El Mansouri",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Amal El Idrissi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Hicham Benali veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Amal Benali",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Yassine El Mansouri",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Amal El Idrissi veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Omar Benali",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Omar El Idrissi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Amal Benali",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Amal Benali",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Hicham El Mansouri",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Yassine Kharrouchi veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Hicham El Mansouri",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Amal Bennani veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Amal Kharrouchi veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Hicham El Idrissi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Yassine El Mansouri",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Amal Benali veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Soukaina Kharrouchi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Hicham El Idrissi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Yassine Kharrouchi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Omar El Idrissi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Omar Bennani",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Soukaina Kharrouchi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Soukaina El Idrissi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Soukaina El Mansouri",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Omar El Idrissi veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Soukaina Kharrouchi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Yassine El Idrissi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Yassine Kharrouchi veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Soukaina Kharrouchi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Omar El Mansouri",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Hicham Bennani",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Amal Kharrouchi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Amal El Idrissi veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Soukaina Kharrouchi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Soukaina Benali veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Soukaina Bennani veut un nouveau chéquier",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Demande de chéquier au nom de Yassine El Mansouri",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Commande de chéquier pour Yassine Kharrouchi",
+    "intent": "chéquier"
+  },
+  {
+    "text": "Omar El Mansouri souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Soukaina El Mansouri",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Omar Bennani",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Amal Kharrouchi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Omar El Idrissi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Hicham Bennani",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Omar Kharrouchi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Omar Benali",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Soukaina Benali",
+    "intent": "opposition"
+  },
+  {
+    "text": "Yassine El Mansouri souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Soukaina El Idrissi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Omar Kharrouchi souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Amal Bennani",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Soukaina El Mansouri",
+    "intent": "opposition"
+  },
+  {
+    "text": "Omar Bennani souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Soukaina Kharrouchi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Omar El Mansouri",
+    "intent": "opposition"
+  },
+  {
+    "text": "Omar El Idrissi souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Yassine El Idrissi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Yassine Benali",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Soukaina Benali",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Soukaina Kharrouchi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Hicham El Mansouri",
+    "intent": "opposition"
+  },
+  {
+    "text": "Hicham Benali souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Hicham Bennani",
+    "intent": "opposition"
+  },
+  {
+    "text": "Hicham Benali souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Yassine Kharrouchi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Amal Benali",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Yassine El Mansouri",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Soukaina El Mansouri",
+    "intent": "opposition"
+  },
+  {
+    "text": "Amal El Idrissi souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Soukaina El Mansouri",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Hicham Bennani",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Amal Bennani",
+    "intent": "opposition"
+  },
+  {
+    "text": "Yassine Benali souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Omar Kharrouchi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Soukaina El Idrissi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Yassine El Idrissi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Yassine Kharrouchi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Omar El Mansouri",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Soukaina El Mansouri",
+    "intent": "opposition"
+  },
+  {
+    "text": "Yassine Kharrouchi souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Hicham Benali",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Soukaina Benali",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Hicham Benali",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Amal Bennani",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Soukaina Bennani",
+    "intent": "opposition"
+  },
+  {
+    "text": "Hicham Kharrouchi souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Yassine Bennani",
+    "intent": "opposition"
+  },
+  {
+    "text": "Omar El Idrissi souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Yassine Kharrouchi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Amal Bennani",
+    "intent": "opposition"
+  },
+  {
+    "text": "Hicham El Mansouri souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Yassine Kharrouchi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Soukaina El Mansouri",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Omar Bennani",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Amal El Idrissi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Hicham Benali",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Soukaina Benali",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Amal Benali",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Soukaina Bennani",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Omar Bennani",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Amal El Idrissi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Yassine Kharrouchi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Amal Bennani",
+    "intent": "opposition"
+  },
+  {
+    "text": "Amal El Idrissi souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Yassine El Mansouri",
+    "intent": "opposition"
+  },
+  {
+    "text": "Hicham Bennani souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Soukaina Kharrouchi souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Omar El Mansouri souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Amal Kharrouchi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Omar El Mansouri souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Omar Bennani",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Soukaina Benali",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Hicham Benali",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Soukaina El Idrissi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Yassine El Idrissi souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Soukaina Kharrouchi souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Amal El Mansouri",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Omar Benali",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Soukaina El Idrissi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Yassine Kharrouchi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Omar Kharrouchi souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Yassine El Mansouri",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Omar El Mansouri",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Yassine Bennani",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Hicham Benali",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Yassine Bennani",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Yassine Kharrouchi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Amal Kharrouchi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Hicham El Mansouri souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Omar Bennani souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Omar El Mansouri",
+    "intent": "opposition"
+  },
+  {
+    "text": "Omar El Mansouri souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Hicham El Mansouri",
+    "intent": "opposition"
+  },
+  {
+    "text": "Yassine El Idrissi souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Yassine Benali",
+    "intent": "opposition"
+  },
+  {
+    "text": "Hicham El Mansouri souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Omar Kharrouchi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Omar Kharrouchi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Omar Benali souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Omar Bennani",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Yassine Bennani",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Amal Kharrouchi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Hicham Bennani",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Yassine Kharrouchi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Amal Bennani",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Omar El Idrissi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Soukaina Benali",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Yassine Benali",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Amal El Idrissi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Omar El Idrissi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Hicham Kharrouchi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Yassine Benali",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Amal El Mansouri",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Amal El Mansouri",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Omar Benali",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Amal Benali",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Soukaina El Mansouri",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Soukaina Benali",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Yassine Benali",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Soukaina Benali",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Soukaina El Idrissi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Amal El Idrissi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Omar Benali",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Omar El Mansouri",
+    "intent": "opposition"
+  },
+  {
+    "text": "Amal El Mansouri souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Soukaina Benali souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Hicham Bennani",
+    "intent": "opposition"
+  },
+  {
+    "text": "Yassine Bennani souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Amal Kharrouchi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Omar El Idrissi souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Soukaina Benali",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Hicham El Idrissi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Omar Benali",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Yassine Bennani",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Hicham Kharrouchi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Yassine Benali",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Omar El Mansouri",
+    "intent": "opposition"
+  },
+  {
+    "text": "Amal Benali souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Omar Kharrouchi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Soukaina Bennani souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Faire opposition sur le compte de Amal Benali",
+    "intent": "opposition"
+  },
+  {
+    "text": "Yassine Kharrouchi souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Amal Kharrouchi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Amal Kharrouchi souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Yassine Bennani souhaite faire opposition",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Omar Kharrouchi",
+    "intent": "opposition"
+  },
+  {
+    "text": "Opposition de prélèvement pour Hicham Benali",
+    "intent": "opposition"
+  },
+  {
+    "text": "Yassine El Mansouri souhaite faire opposition",
+    "intent": "opposition"
+  }
+]

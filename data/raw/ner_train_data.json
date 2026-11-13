@@ -1,0 +1,334 @@
+[
+  {
+    "text": "Virement de Ahmed El Mansouri vers le compte 1234.",
+    "entities": [
+      {
+        "start": 12,
+        "end": 29,
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Mr. Yassine Kharrouchi a reçu un virement.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 22,
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Le salaire de Souad Bentaleb est versé.",
+    "entities": [
+      {
+        "start": 14,
+        "end": 28,
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Versement au profit de Lahcen Ibn Khatib.",
+    "entities": [
+      {
+        "start": 23,
+        "end": 40,
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Paiement destiné à Jamila Oumhani.",
+    "entities": [
+      {
+        "start": 19,
+        "end": 33,
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Crédit accordé à Mohamed Amine.",
+    "entities": [
+      {
+        "start": 17,
+        "end": 30,
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Débit de la carte de Salma El Kadiri.",
+    "entities": [
+      {
+        "start": 21,
+        "end": 36,
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Retrait effectué par Anouar Chraibi.",
+    "entities": [
+      {
+        "start": 21,
+        "end": 35,
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Le chèque de Hicham Kharbouch a été encaissé.",
+    "entities": [
+      {
+        "start": 13,
+        "end": 29,
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Transfert vers le compte de Mouna El Alaoui.",
+    "entities": [
+      {
+        "start": 28,
+        "end": 43,
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Virement effectué par Abdelmoumen Roubal.",
+    "entities": [
+      {
+        "start": 22,
+        "end": 40,
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Mr. mohamed Amin a payé la facture.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 16,
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Récu de Kenza Benomar pour la transaction.",
+    "entities": [
+      {
+        "start": 8,
+        "end": 21,
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Transfert:Fatima Zahra El Idrissi",
+    "entities": [
+      {
+        "start": 10,
+        "end": 33,
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Versement pour Mme. Amal Soukaina",
+    "entities": [
+      {
+        "start": 20,
+        "end": 33,
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Paiement pour Ahmed",
+    "entities": [
+      {
+        "start": 14,
+        "end": 19,
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Crédit : Mohamed Amin",
+    "entities": [
+      {
+        "start": 9,
+        "end": 21,
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Un retrait a été effectué pour Reda El Hamidi.",
+    "entities": [
+      {
+        "start": 31,
+        "end": 45,
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Virement pour SALMA el kadiri",
+    "entities": [
+      {
+        "start": 14,
+        "end": 29,
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Transacation de 5dh effectuée par Abdelmoumen Roubal",
+    "entities": [
+      {
+        "start": 34,
+        "end": 52,
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Veuillez contacter notre service client.",
+    "entities": []
+  },
+  {
+    "text": "Le solde est suffisant pour effectuer l’opération.",
+    "entities": []
+  },
+  {
+    "text": "Transaction acceptée sans problème.",
+    "entities": []
+  },
+  {
+    "text": "Transaction de 5dh effectuée hier.",
+    "entities": []
+  },
+  {
+    "text": "Code client : 12345678",
+    "entities": []
+  },
+  {
+    "text": "Versement de 400 MAD au compte XYZ.",
+    "entities": []
+  },
+  {
+    "text": "Aucune opération détectée aujourd’hui.",
+    "entities": []
+  },
+  {
+    "text": "Facture de 99.99€ réglée.",
+    "entities": []
+  },
+  {
+    "text": "Retrait de 100 MAD effectué par le guichet automatique.",
+    "entities": []
+  },
+  {
+    "text": "Transaction de 250 MAD réalisée à l'agence de Rabat.",
+    "entities": []
+  },
+  {
+    "text": "Transfert réalisé par le système bancaire.",
+    "entities": []
+  },
+  {
+    "text": "Virement pour Soukaina Benali.",
+    "entities": [
+      {
+        "start": 14,
+        "end": 29,
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Paiement destiné à Soukaina Bennani.",
+    "entities": [
+      {
+        "start": 19,
+        "end": 35,
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Transfert vers le compte de Omar Bennani.",
+    "entities": [
+      {
+        "start": 28,
+        "end": 40,
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Versement reçu par Amal Bennani.",
+    "entities": [
+      {
+        "start": 19,
+        "end": 31,
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Demande de chéquier au nom de Yassine Bennani.",
+    "entities": [
+      {
+        "start": 30,
+        "end": 45,
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Retrait effectué par Hicham Bennani.",
+    "entities": [
+      {
+        "start": 21,
+        "end": 35,
+        "label": "PERSON"
+      }
+    ]
+  },
+  {
+    "text": "Envoyer le relevé à l'agence.",
+    "entities": []
+  },
+  {
+    "text": "Télécharger relevé sans information.",
+    "entities": []
+  },
+  {
+    "text": "Demande de relevé mensuel pour le compte.",
+    "entities": []
+  },
+  {
+    "text": "Commande de chéquier",
+    "entities": []
+  },
+  {
+    "text": "Faire opposition sur le compte",
+    "entities": []
+  },
+  {
+    "text": "Opposition de prélèvement automatique",
+    "entities": []
+  },
+  {
+    "text": "Demande de relevé",
+    "entities": []
+  }
+]

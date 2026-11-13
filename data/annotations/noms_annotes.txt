@@ -1,0 +1,40 @@
+# Liste des noms de personnes présents dans les phrases de test (annotation manuelle).
+# Une personne par ligne. Les phrases sans entités sont annotées avec cette liste.
+Ahmed Elghazi
+Ahmedi Elghazii
+Souad Benali
+Souaad Benly
+Yassine Kharrouchi
+Yassin Charrouchi
+Karim
+Jamila Oumhani
+Fatima Zahra El Idrissi
+Mohamed Amin
+Salma El Kadiri
+Hicham Kharbouch
+Amal Soukaina
+Anouar Chraibi
+Yassine El Mansouri
+Yassine El Idrissi
+Yassine Benali
+Yassine Bennani
+Soukaina El Mansouri
+Soukaina El Idrissi
+Soukaina Benali
+Soukaina Bennani
+Soukaina Kharrouchi
+Amal El Mansouri
+Amal El Idrissi
+Amal Benali
+Amal Bennani
+Amal Kharrouchi
+Omar El Mansouri
+Omar El Idrissi
+Omar Benali
+Omar Bennani
+Omar Kharrouchi
+Hicham El Mansouri
+Hicham El Idrissi
+Hicham Benali
+Hicham Bennani
+Hicham Kharrouchi

@@ -1,0 +1,13 @@
+{
+  "mode": "copy",
+  "total_artifacts": 5,
+  "copied": [
+    "input.txt",
+    "ner/input.txt",
+    "ner/test_corpus/synthetic_text_with_names.json",
+    "noms_marocains.csv",
+    "prenoms_marocains.csv"
+  ],
+  "moved": [],
+  "raw_dir": "data/raw"
+}
